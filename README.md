@@ -6,11 +6,11 @@ Use this document as a starting point for the Class 6 exercise. Please note that
 
 ---
 ##Instructions
--Start by creating a new folder and initializing it as a Git repository.
--Copy this file and its contents into your new repository and commit. The copied file should also be named README.md.
--Answer the questions below. Introduce each answer as a separate commit.
--Push the resulting repository to your personal GitHub account.
--See the class page for additional submission instructions.
+- Start by creating a new folder and initializing it as a Git repository.
+- Copy this file and its contents into your new repository and commit. The copied file should also be named README.md.
+- Answer the questions below. Introduce each answer as a separate commit.
+- Push the resulting repository to your personal GitHub account.
+- See the class page for additional submission instructions.
 
 ##Questions
 ---
