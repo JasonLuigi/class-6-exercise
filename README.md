@@ -26,4 +26,6 @@ Assuming that you are currently within a Git repository that contains a file nam
 git status will show the actual file that has had changes, git diff will show you the actual changes in text form.
 
 Assuming that you are currently within a Git repository that includes several commits, write the command (or commands) that will display the changes from the commit with the ID of abc123.
+git diff abc123
+
 Assuming that you are currently within a Git repository that includes multiple commits, write the command (or commands) that will display the IDs and commit messages for the 3 most recent commits.
