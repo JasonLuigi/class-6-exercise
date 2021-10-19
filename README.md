@@ -23,5 +23,7 @@ There are 2 ways to go forward: git commit will bring you to the shells text edi
 git commit -m "" will allow you to add the message directly from the command line.
 
 Assuming that you are currently within a Git repository that contains a file named 'README.md', write the command (or commands) that will display any uncommitted changes made to this file.
+git status will show the actual file that has had changes, git diff will show you the actual changes in text form.
+
 Assuming that you are currently within a Git repository that includes several commits, write the command (or commands) that will display the changes from the commit with the ID of abc123.
 Assuming that you are currently within a Git repository that includes multiple commits, write the command (or commands) that will display the IDs and commit messages for the 3 most recent commits.
