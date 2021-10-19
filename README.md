@@ -15,18 +15,28 @@ See the class page for additional submission instructions.
 ##Questions
 ---
 Assuming that you aren't sure whether you're currently inside of a Git repository, write the command (or commands) that will give you this information.
+
 git status
 
+
 Assuming that you are currently within a Git repository, write the command (or commands) that will create a new file named 'hello-world.txt' then stage and commit it.
+
 touch hello-world.txt || git add hello-world.txt || git commit 
+
 There are 2 ways to go forward: git commit will bring you to the shells text editor where you can add the commit message.
+
 git commit -m "" will allow you to add the message directly from the command line.
 
 Assuming that you are currently within a Git repository that contains a file named 'README.md', write the command (or commands) that will display any uncommitted changes made to this file.
+
 git status will show the actual file that has had changes, git diff will show you the actual changes in text form.
 
+
 Assuming that you are currently within a Git repository that includes several commits, write the command (or commands) that will display the changes from the commit with the ID of abc123.
+
 git diff abc123
 
+
 Assuming that you are currently within a Git repository that includes multiple commits, write the command (or commands) that will display the IDs and commit messages for the 3 most recent commits.
+
 git log -n 3
